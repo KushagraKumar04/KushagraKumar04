@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushagra Kumar</h1>
 <h3 align="center">Data Storyteller | Analytical Thinker | Insight Generator</h3>
 
-- 🌱 I’m currently learning **Ethereum**
+- 🌱 I’m currently learning and Exploring
 
 - 📝 I regularly write articles on [https://x.com/Kushagr79274771](https://x.com/Kushagr79274771)
 
