@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=I%20am%20a%20Student%2C%20Developer%2C%20Coder%20and%20Love%20to%20Connect%20With%20People%20%E2%9D%A4%EF%B8%8F">
+</p>
 
 
 <div align="center">
