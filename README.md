@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Universe%20Is%20Taking%20Care%20Of%20Everything">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B9CD3&lines=Universe%20is%20taking%20care%20of%20Everything">
 </p>
-
 
 
 <div align="center">
