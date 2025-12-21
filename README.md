@@ -39,7 +39,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LgBQI7BBrUvrWUU7E6cXrUR5QTX026t2/view?usp=sharing)
 
-- ⚡ Fun fact **I THINK PEOPLE AROUND ME FEELS MORE SECURE😊**
+- ⚡ Fun fact **People around me often say I bring a sense of calm, clarity, and reliability 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
