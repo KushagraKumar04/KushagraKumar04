@@ -37,7 +37,7 @@
 
 - 📫 How to reach me **kushagrakumar110@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZLhanfk_KvEe9MWbqnejK0CJBfNBUTIp/view?usp=sharing](https://drive.google.com/file/d/1ZLhanfk_KvEe9MWbqnejK0CJBfNBUTIp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LgBQI7BBrUvrWUU7E6cXrUR5QTX026t2/view?usp=sharing)
 
 - ⚡ Fun fact **I THINK PEOPLE AROUND ME FEELS MORE SECURE😊**
 
