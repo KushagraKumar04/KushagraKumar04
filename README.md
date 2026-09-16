@@ -19,7 +19,7 @@
 
 ### 🧭 About Me
 
-- 🔭 Currently working as an **AI / GenAI Engineer** at **Volkswagen Group Digital Solutions India**, building production RAG and multi-agent LLM systems on Azure OpenAI.
+- 🔭 Currently working and building production RAG and multi-agent LLM systems on Azure OpenAI.
 - 🤖 I design systems that turn **unstructured data into decisions** - retrieval-augmented chatbots, autonomous agent pipelines, and AI-powered analytics workspaces.
 - 📊 Deep interest in the intersection of **Data Analytics, Machine Learning, and LLM Engineering** - from SQL and dashboards to prompt engineering and agent orchestration.
 - 🧩 Delivered a RAG knowledge platform serving **90+ users** across **3,000+ tickets**, and a company-wide multi-agent BPMN automation tool.
