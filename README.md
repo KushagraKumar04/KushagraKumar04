@@ -20,8 +20,8 @@
 ### 🧭 About Me
 
 - 🔭 Currently working as an **AI / GenAI Engineer** at **Volkswagen Group Digital Solutions India**, building production RAG and multi-agent LLM systems on Azure OpenAI.
-- 🤖 I design systems that turn **unstructured data into decisions** — retrieval-augmented chatbots, autonomous agent pipelines, and AI-powered analytics workspaces.
-- 📊 Deep interest in the intersection of **Data Analytics, Machine Learning, and LLM Engineering** — from SQL and dashboards to prompt engineering and agent orchestration.
+- 🤖 I design systems that turn **unstructured data into decisions** - retrieval-augmented chatbots, autonomous agent pipelines, and AI-powered analytics workspaces.
+- 📊 Deep interest in the intersection of **Data Analytics, Machine Learning, and LLM Engineering** - from SQL and dashboards to prompt engineering and agent orchestration.
 - 🧩 Delivered a RAG knowledge platform serving **90+ users** across **3,000+ tickets**, and a company-wide multi-agent BPMN automation tool.
 - 🌱 Currently sharpening skills in **provider-agnostic AI architecture, data governance, and cost-efficient LLM systems**.
 - ⚡ Fun fact: people often say I bring **calm, clarity, and reliability** to a room full of chaos and half-finished pull requests 😊
@@ -79,7 +79,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 AI Data Analyst</h4>
-      <p>A local-first, provider-agnostic analytics workspace — ask a question in plain English and get back SQL, Python, DAX, interactive charts, and a transparent execution trace. Multi-agent orchestration (SQL, Python, DAX, Viz, Narrative, Quality, KPI agents) streamed live via SSE.</p>
+      <p>A local-first, provider-agnostic analytics workspace - ask a question in plain English and get back SQL, Python, DAX, interactive charts, and a transparent execution trace. Multi-agent orchestration (SQL, Python, DAX, Viz, Narrative, Quality, KPI agents) streamed live via SSE.</p>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square"/>
@@ -97,7 +97,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>📚 AI Support Knowledge Hub</h4>
-      <p>RAG-powered knowledge platform serving 90+ support agents across 3,000+ historical tickets — with conversation cleaning, citation-linked chatbot answers, ticket summarization, and cross-ticket analytics.</p>
+      <p>RAG-powered knowledge platform serving 90+ support agents across 3,000+ historical tickets - with conversation cleaning, citation-linked chatbot answers, ticket summarization, and cross-ticket analytics.</p>
       <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
@@ -119,10 +119,10 @@
 
 ### 🏆 Certifications
 
-- ☕ Java Full Stack Developer — Coursera (Board Infinity)
-- 🗃️ SQL (Advanced) — HackerRank
-- 📊 Microsoft Power BI Desktop for Business Intelligence — Udemy
-- 🛡️ Cybersecurity Attack and Defence Fundamentals — EC-Council
+- ☕ Java Full Stack Developer - Coursera (Board Infinity)
+- 🗃️ SQL (Advanced) - HackerRank
+- 📊 Microsoft Power BI Desktop for Business Intelligence - Udemy
+- 🛡️ Cybersecurity Attack and Defence Fundamentals - EC-Council
 
 ---
 
