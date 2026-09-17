@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kushagra%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20GenAI%20Engineer%20%7C%20RAG%20%26%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kushagra%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20GenAI%20Engineer%20-%20RAG%20and%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=ffffff"/>
 </p>
 
 <h3 align="center">
@@ -27,7 +27,7 @@
 
 ### 🧭 About Me
 
-- 🔭 Currently working as an **AI / GenAI Engineer** at **Volkswagen Group Digital Solutions India**, building production RAG and multi-agent LLM systems on Azure OpenAI.
+- 🔭 Currently working and building production RAG and multi-agent LLM systems on Azure OpenAI.
 - 🤖 I design systems that turn **unstructured data into decisions** — retrieval-augmented chatbots, autonomous agent pipelines, and AI-powered analytics workspaces.
 - 📊 Deep interest in the intersection of **Data Analytics, Machine Learning, and LLM Engineering** — from SQL and dashboards to prompt engineering and agent orchestration.
 - 🧩 Delivered a RAG knowledge platform serving **90+ users** across **3,000+ tickets**, and a company-wide multi-agent BPMN automation tool.
