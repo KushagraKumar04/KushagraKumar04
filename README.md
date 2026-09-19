@@ -123,7 +123,7 @@
   </tr>
 </table>
 
-<p align="center">📄 <a href="https://drive.google.com/file/d/1LgBQI7BBrUvrWUU7E6cXrUR5QTX026t2/view?usp=sharing">View my full Resume</a></p>
+<!-- <p align="center">📄 <a href="https://drive.google.com/file/d/1LgBQI7BBrUvrWUU7E6cXrUR5QTX026t2/view?usp=sharing">View my full Resume</a></p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%"/>
 
